@@ -6,7 +6,7 @@
       </span></animated-image>
 </p>
 
-🔭 Software Engineer at Tokopedia
+🔭 Software Engineer at Sans Technology
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mtiansyahp/)
 <br>
