@@ -6,7 +6,7 @@
       </span></animated-image>
 </p>
 
-🔭 Software Engineer at Sans Technology
+🔭 Software Engineer at PT Pupuk Indonesia & Sans Technology
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mtiansyahp/)
 <br>
